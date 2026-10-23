@@ -237,3 +237,13 @@ footer.site-foot { background: var(--espresso); color: #A99A86; font-size: 13px;
   .hero__rail { grid-template-columns: 1fr; }
   .hero__content { padding-top: 120px; }
 }
+
+/* ---------- Lưới ảnh nhiều tấm (thay cho ảnh lớn) ---------- */
+.grid3 { display: grid; gap: 10px; grid-template-columns: 1fr 1fr; margin-top: 40px; }
+.grid3 figure { margin: 0; overflow: hidden; background: var(--paper-2); }
+.grid3 img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; transition: transform .8s ease; }
+.grid3 figure:hover img { transform: scale(1.04); }
+@media (min-width: 900px) {
+  .grid3 { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+  .grid3 img { aspect-ratio: 4 / 3; }
+}
