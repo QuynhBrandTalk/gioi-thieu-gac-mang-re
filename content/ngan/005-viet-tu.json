@@ -1,0 +1,46 @@
+{
+  "num": 5,
+  "slug": "viet-tu",
+  "publish": false,
+  "manual": false,
+  "region": "Biển Quảng Ninh",
+  "card_title": "Việt Tú",
+  "card_deck": "Đang chuẩn bị cùng người làm.",
+  "card_img": "",
+  "card_alt": "",
+  "title": "Việt Tú",
+  "deck": "Đang chuẩn bị cùng người làm.",
+  "hero": {
+    "img": "",
+    "alt": "",
+    "pos": "center 50%"
+  },
+  "chapters": {
+    "dat": {
+      "title": "",
+      "paragraphs": [],
+      "images": []
+    },
+    "nguoi": {
+      "title": "",
+      "paragraphs": [],
+      "images": []
+    },
+    "vi": {
+      "title": "",
+      "paragraphs": [],
+      "images": []
+    },
+    "chuyen": {
+      "title": "",
+      "paragraphs": [],
+      "images": []
+    }
+  },
+  "product": {
+    "name": "Việt Tú",
+    "items": [],
+    "note": "Giá, số lượng và lịch giao được xác nhận khi bạn nhắn."
+  },
+  "founder": "Phạm Thị Thanh Hương (cần xác nhận vai trò và sản phẩm)"
+}

@@ -1,0 +1,48 @@
+{
+  "num": 2,
+  "slug": "mat-ong-bac-ha-meo-vac",
+  "publish": false,
+  "manual": false,
+  "region": "Mèo Vạc, Hà Giang",
+  "card_title": "Mật ong bạc hà",
+  "card_deck": "Đang viết cùng người làm. Sẽ mở khi có đủ ảnh thực địa.",
+  "card_img": "",
+  "card_alt": "",
+  "title": "Mật ong bạc hà",
+  "deck": "Đang viết cùng người làm. Sẽ mở khi có đủ ảnh thực địa.",
+  "hero": {
+    "img": "",
+    "alt": "",
+    "pos": "center 50%"
+  },
+  "chapters": {
+    "dat": {
+      "title": "",
+      "paragraphs": [],
+      "images": []
+    },
+    "nguoi": {
+      "title": "",
+      "paragraphs": [],
+      "images": []
+    },
+    "vi": {
+      "title": "",
+      "paragraphs": [],
+      "images": []
+    },
+    "chuyen": {
+      "title": "",
+      "paragraphs": [],
+      "images": []
+    }
+  },
+  "product": {
+    "name": "Mật ong bạc hà",
+    "items": [
+      "Mật ong bạc hà (chọn dung tích khi đặt)"
+    ],
+    "note": "Giá, số lượng và lịch giao được xác nhận khi bạn nhắn."
+  },
+  "founder": "HTX Po Mỷ (nhà sáng lập: Hoà Lưu theo nhật ký đợt 01; cần xác nhận)"
+}
